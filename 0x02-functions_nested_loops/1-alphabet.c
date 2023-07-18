@@ -3,7 +3,7 @@
 
 	/**
 	 * description:	print_alphabet - print all alphabet in lowercase
-	 * return: none
+	 * return: return always 0 (success)
 	 */
 
 
